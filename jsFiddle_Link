@@ -1,2 +1,5 @@
 + Border as a triangle:
   Fiddle link: http://jsfiddle.net/duZAx/795/
++ column layout: 
+  - Ususally with bootstrap we will use 3 Ul wrapped inside a col-md-4 div
+  - With new css3 we have a new property call colm-count: example http://cssdeck.com/labs/5u1ztlzj
